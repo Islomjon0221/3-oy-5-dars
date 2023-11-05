@@ -1,0 +1,8 @@
+:root {
+    --text-color: #ffac33;
+    --transition: all 0.5s ;
+}
+
+h1 {
+    color: var(--text-color)
+}
